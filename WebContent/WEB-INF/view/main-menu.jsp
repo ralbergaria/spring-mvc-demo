@@ -9,7 +9,7 @@
 
 Hello world form
 
-<a href="showForm">Hello world showForm</a>
+<a href="hello/showForm">Hello world showForm</a>
 
 </body>
 </html>
