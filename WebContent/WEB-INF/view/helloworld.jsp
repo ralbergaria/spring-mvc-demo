@@ -8,4 +8,9 @@ Hello world of Spring!
 
 Student name: ${param.studentName}
 
+<br>
+<br>
+
+the message: ${message}
+
 </html>
