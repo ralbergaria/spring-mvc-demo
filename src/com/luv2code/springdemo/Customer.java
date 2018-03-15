@@ -14,6 +14,7 @@ public class Customer {
 	@Size(min=1, message="is required")
 	private String lastName;
 	
+	@NotNull(message="is required")
 	@Min(value=0, message="range need be 0 to 10")
 	@Max(value=10, message="range need be 0 to 10" )
 	private Integer freePasses;
